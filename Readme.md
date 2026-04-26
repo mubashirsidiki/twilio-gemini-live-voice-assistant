@@ -2,6 +2,8 @@
 
 This application demonstrates how to use Python, [Twilio Voice](https://www.twilio.com/docs/voice) and [Media Streams](https://www.twilio.com/docs/voice/media-streams), and [Google's Gemini Live API](https://ai.google.dev/gemini-api/docs/live) to make a phone call to speak with an AI Assistant.
 
+<img width="1536" height="1024" alt="cover" src="https://github.com/user-attachments/assets/50a3ddc5-d052-4fdc-9abf-cf439b659bc5" />
+
 The application opens websockets with the Gemini Live API and Twilio, and sends voice audio from one to the other to enable a two-way conversation.
 
 This application uses the following Twilio products in conjunction with the Gemini Live API:
